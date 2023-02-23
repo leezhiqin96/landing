@@ -1,0 +1,29 @@
+.banner {
+  background-image: url(../../images/background.png);
+  width: 100%;
+  padding: 200px;
+  object-fit: cover;
+  color: white;
+}
+
+.banner a {
+  background-color: rgb(92, 196, 92);
+  color: white;
+  border: 1 solid;
+  border-radius: 16px;
+  padding: 12px 24px;
+  display: inline-block;
+}
+
+.banner a:hover {
+  background-color: green;
+}
+
+.banner p {
+  color: lightgrey;
+  font-size: 18px;
+}
+
+.banner h2 {
+  font-size: 32px;
+}

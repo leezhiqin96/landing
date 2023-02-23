@@ -1,0 +1,12 @@
+.footer {
+  padding: 60px;
+  margin: auto;
+  text-align: center;
+  background-color: rgb(47, 41, 41);
+  color:antiquewhite
+}
+
+.icon {
+  color:rgb(105, 167, 12);
+  font-size: 30px;
+}
